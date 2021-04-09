@@ -75,7 +75,7 @@ function setup() {
 }
 
 function draw() {
-  robber.debug = true
+  //robber.debug = true
   background(220);
   
 
